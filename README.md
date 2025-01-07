@@ -1,1 +1,1 @@
-Created a basic react app.
+Created a basic Vite + React + Typescript app.
